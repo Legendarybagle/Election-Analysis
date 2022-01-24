@@ -23,7 +23,11 @@
  
 ## Election Audit Summary
   The code that collected all of this data to make it into a readable format was fast and efficient. With only a bit of modification this code could be used for other elections. Something like this could be a great asset to the election commitee by making auditing the election must faster and easier. if sets of data for other elections are formatted differently it would only take a couple changes and copypasting to add more or different categories. for example if you wanted to change "counties" to "states" all you would have to do is modify a few things such as selecting the correct index in line 52, 
+  
 <img width="629" alt="Screen Shot 2022-01-23 at 4 52 40 PM" src="https://user-images.githubusercontent.com/39388246/150705848-d6fd4aa5-0f07-4bcc-ba50-59f3eafa6adf.png">
+
 and change print statements at the end of the code to match the new catergory you would like to audit.
+
 <img width="731" alt="Screen Shot 2022-01-23 at 4 55 39 PM" src="https://user-images.githubusercontent.com/39388246/150705977-85f9e8e8-a1f6-4333-b4d8-5da12f9abd5a.png">
+
 The green comments in the screenshots and attached code explain the purpose of each section so you can more clearly tell the purpose
